@@ -1,0 +1,4 @@
+node_modules/
+safeguard-backend/node_modules/
+safeguard-frontend/node_modules/
+.env
